@@ -6,19 +6,17 @@ PRs welcome! If your creative work, research, project or organization is aligned
 
 # Glossary
 
-# Quotes and Mentions
-[vitalik on e/acc](https://twitter.com/VitalikButerin/status/1599736860623876096?s=20)
-
-# Articles
+# Writings
 
 [Notes on e/acc principles and tenets](https://beff.substack.com/p/notes-on-eacc-principles-and-tenets)
 
-# Fiction
-
-# Non-Fiction
-
-# Music
+# Influences
 
 # Apps, Projects and Repositories
 
 # Organizations
+
+# Quotes and Mentions
+[vitalik on e/acc](https://twitter.com/VitalikButerin/status/1599736860623876096?s=20)
+
+# Art & Music
